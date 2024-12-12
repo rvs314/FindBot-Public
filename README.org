@@ -1,0 +1,23 @@
+#+title: FindBot
+#+subtitle: An AI Realtor
+#+author: Raffi Sanna
+
+#+begin_quote
+NOTE: This repository will not run in its current state. There are several API keys and files which have been removed to prevent mining and abuse. This repository is only to demonstrate how FindBot is implemented, not to implement it.
+#+end_quote
+
+FindBot is a Generative Conversational Recommender System (CRS) - an AI agent which dialogues with a user in order to determine their preferences in rental apartments.
+
+* Relevant Research
+
+- [[https://arxiv.org/abs/2308.10053][Large Language Models as Zero-Shot Conversational Recommenders]]
+- [[https://arxiv.org/abs/2402.01135][A Multi-Agent Conversational Recommender System]]
+- [[https://www.semanticscholar.org/paper/ChatGPT-as-a-Conversational-Recommender-System%3A-A-Manzoor-Ziegler/96653587c16ca65a9077963678137937c9744744][ChatGPT as a Conversational Recommender System: A User-Centric Analysis]]
+- [[https://www.semanticscholar.org/paper/Evaluating-ChatGPT-as-a-Recommender-System%3A-A-Palma-Biancofiore/f7d3c17ad1dee97377651e0f5646b3fc6d047fc0][Evaluating ChatGPT as a Recommender System: A Rigorous Approach]]
+- [[https://arxiv.org/pdf/2308.12241][LLMRec: Benchmarking Large Language Models on Recommendation Task]]
+- [[https://arxiv.org/abs/2305.02182][Uncovering ChatGPT's Capabilities in Recommender Systems]]
+- [[https://arxiv.org/pdf/2304.09542][Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents]]
+- [[https://arxiv.org/pdf/2308.07107][Large Language Models for Information Retrieval: A Survey]]
+- [[https://arxiv.org/pdf/2312.02724][RankZephyr: Effective and Robust Zero-Shot Listwise Reranking is a Breeze!]]
+
+# LocalWords: FindBot CRS LocalWords
